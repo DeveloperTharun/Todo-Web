@@ -96,7 +96,7 @@ Authorization: Bearer <JWT_TOKEN>
 | Method | Endpoint | Description |
 |---------|----------|-------------|
 | GET | `/todo` | Get All Todos |
-| POST | `/todo` | Create Todo |
+| POST | `/todo/create` | Create Todo |
 | PUT | `/todo/{id}` | Update Todo |
 | DELETE | `/todo/{id}` | Delete Todo |
 
