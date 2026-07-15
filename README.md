@@ -107,7 +107,7 @@ Authorization: Bearer <JWT_TOKEN>
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/todo-app.git
+git clone https://github.com/DeveloperTharun/todo-web.git
 
 cd todo-app
 ```
@@ -186,8 +186,8 @@ screenshots/
 
 **Tharun Raj**
 
-- GitHub: https://github.com/your-username
-- LinkedIn: https://linkedin.com/in/your-profile
+- GitHub: https://github.com/DeveloperTharun
+- LinkedIn: https://www.linkedin.com/in/tharunraj07
 
 ---
 
